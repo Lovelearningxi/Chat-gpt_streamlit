@@ -23,7 +23,7 @@ WHY？
 2. 部署到streamlit云端，去 https://streamlit.io/cloud 部署吧（建议用github账号登陆）
 3. 点击get start
 4. 右上角蓝色New app -> From existing app 
-5. 选择项目部署，你可以用你fork的项目，也可以直接用的地址。
+5. 选择项目部署，你可以用你fork的项目.
 6. Main app file: app.py
 7. 注意⚠️⚠️，在advanced settings中，需要输入Secrets中输入
 ```
